@@ -1,5 +1,6 @@
 {
 	"author": "Krista Kannen",
+	"description": "Mostly this project frustrates me by not submitting correctly even though there are no errors in the code",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
